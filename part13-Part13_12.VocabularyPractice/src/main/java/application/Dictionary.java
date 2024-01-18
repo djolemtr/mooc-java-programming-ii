@@ -12,8 +12,8 @@ public class Dictionary {
     private Map<String, String> translations;
 
     public Dictionary() {
-        this.words = new ArrayList<String>();
-        this.translations = new HashMap<String, String>();
+        this.words = new ArrayList<>();
+        this.translations = new HashMap<>();
 
         add("sana", "word");
     }

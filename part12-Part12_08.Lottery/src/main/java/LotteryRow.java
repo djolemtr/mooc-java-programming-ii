@@ -27,4 +27,4 @@ public class LotteryRow {
         return false;
     }
 }
-
+
